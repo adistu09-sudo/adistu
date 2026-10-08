@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-label="Adistu logo">
+  <defs>
+    <linearGradient id="adistuGradient" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#4d6a52"/>
+      <stop offset="100%" stop-color="#2d4436"/>
+    </linearGradient>
+  </defs>
+  <rect x="6" y="6" width="68" height="68" rx="18" fill="url(#adistuGradient)"/>
+  <path d="M23 58 40 19l17 39" fill="none" stroke="#f7f8f2" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 42h20" fill="none" stroke="#f7f8f2" stroke-width="7" stroke-linecap="round"/>
+  <path d="M47 19c10 3 14 9 13 18-8-1-14-6-14-18Z" fill="#dfe8d3" opacity="0.9"/>
+  <circle cx="58" cy="31" r="4" fill="#f0f5e8" opacity="0.9"/>
+</svg>
